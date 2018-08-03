@@ -1,10 +1,10 @@
-package Fighting.date_2018_08_02;
+﻿package Fighting.date_2018_08_02;
 
 /*
  * page ：59
  * 题目：
  *  假设单链表的每个节点的值都可以当做一个0-9的整数，比如：5->3->2 可表示为：532
- *  要求用两个单链表实现加法运算，结果为一个新链表。
+ *  要求用两个单链表实现加法运算，结果为一个新链表。 
  */
 public class FiftyNine {
     static class Node {
