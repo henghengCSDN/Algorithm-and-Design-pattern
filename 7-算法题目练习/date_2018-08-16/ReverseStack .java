@@ -1,4 +1,4 @@
-/*
+﻿/*
  * 只用递归来逆序一个栈，不能使用其他数据结构。
  */
 
@@ -14,7 +14,7 @@ public class ReverseStack {
             top--; 
             reverseStackRecursively(stack, top);
             stack[top] = cur;
-            return stack;
+            return stack; 
         }
     }
     public static int getStackBottom(int[] stack, int top) {
